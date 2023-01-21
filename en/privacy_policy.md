@@ -1,0 +1,65 @@
+## Privacy Policy
+Baby Sleep Tracker was created as a free app. This Service is provided by Lugovaya Olesya free of charge and is intended for use as is.
+
+This page is used to inform visitors about my policy regarding the collection, use and disclosure of personal information if anyone decides to use my Service.
+
+If you decide to use my Service, you agree to the collection and use of information in accordance with this policy. The personal information I collect is used to provide and improve the Service. I will not use or share your information with anyone, except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are available on the Baby Sleep Tracker website, unless otherwise defined in this Privacy Policy.
+
+## Collection and use of information
+
+To improve the experience when using our service, I may request that you provide us with certain personal information, including, but not limited to, your email address. The information I request will be stored on your device and is not collected by me in any way.
+
+The application uses third-party services that may collect information used to identify you.
+
+Link to the privacy policy of third-party service providers used by the application
+
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)					   
+
+## Log data
+
+I want to inform you that whenever you use my service, in case of an error in the application, I collect data and information (through third-party products) on your phone called Log Data. This log data may include information such as your device's Internet Protocol address (“IP”), device name, operating system version, application configuration when using my Service, the time and date of your use of the Service, and other statistics.
+
+## Cookies
+
+Cookies are files with a small amount of data that are usually used as anonymous unique identifiers. They are sent to your browser from the websites you visit and stored in the internal memory of your device.
+
+This service clearly does not use these “cookies". However, the application may use third-party code and libraries that use cookies to collect information and improve their services. You have the option to either accept or reject these cookies and find out when the cookie is sent to your device. If you decide to opt out of our cookies, you may not be able to use some parts of this service.
+
+## Service Providers
+
+I can hire third-party companies and individuals for the following reasons:
+
+* To facilitate our service;
+* Provide the service on our behalf;
+* To perform services related to the service; or
+* To help us analyze how our service is used.
+
+I want to inform the users of this Service that these third parties have access to their personal information. The reason is to perform the tasks assigned to them on our behalf. However, they are obliged not to disclose or use the information for any other purposes.
+
+## Security
+
+I appreciate your trust in providing us with your personal information, which is why we strive to use commercially acceptable means of protecting it. But remember that no method of transmission over the Internet or method of electronic storage is 100% secure and trouble-free, and I cannot guarantee its absolute security.
+
+## Links to other sites
+
+This service may contain links to other sites. If you click on a third-party link, you will be redirected to this site. Please note that these external sites are not managed by me. Therefore, I strongly recommend that you read the Privacy Policies of these websites. I do not control and assume no responsibility for the content, privacy policies or practices of any third-party sites or services.
+
+## Children's privacy
+
+These services are not intended for persons under the age of 13. I do not knowingly collect personal information from children under the age of 13. If I find out that a child under the age of 13 has provided me with personal information, I immediately delete it from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I can perform the necessary actions.
+
+ No. Changes to this Privacy Policy
+
+I may update our privacy policy from time to time. Therefore, it is recommended that you periodically review this page for any changes. I will notify you of any changes by posting a new Privacy Policy on this page.
+
+This policy comes into effect from 2023-01-01
+
+## Contact us
+
+If you have any questions or suggestions about my privacy policy, do not hesitate to contact me at mulledwineapps@yandex.ru.
+
+This privacy policy page was created at [address](https://github.com/Th1ngshappen/share/blob/main/babysleeptracker_privacy.md ) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com /)

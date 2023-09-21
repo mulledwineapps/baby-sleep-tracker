@@ -62,4 +62,4 @@
 
 Если у вас есть какие-либо вопросы или предложения по поводу моей политики конфиденциальности, пожалуйста, обращайтесь к нам по адресу mulledwineapps@yandex.ru
 
-Эта страница политики конфиденциальности была создана по [адресу](https://github.com/Th1ngshappen/share/blob/main/babysleeptracker_privacy.md) и изменена / сгенерирована [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+Эта страница политики конфиденциальности была создана по [адресу](https://github.com/mulledwineapps/baby-sleep-tracker/blob/main/ru/privacy_policy.md) и изменена / сгенерирована [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
